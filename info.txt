@@ -1,0 +1,70 @@
+
+
+	Info about the gift:
+ 
+Gift:
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+
+
+	Sorted gift by price:
+Gift:
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+
+
+	Info about the gift:
+ 
+Gift:
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+
+
+	Info about the gift:
+ 
+Gift:
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+
+
+	Info about the most expensive sweet in gift: 
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+
+
+	Sorted gift by weight:
+Gift:
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+
+
+	Sorted gift by name:
+Gift:
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+
+
+	Sorted gift by price:
+Gift:
+Alpen Gold, Price: 4.0$, Weight: 124.0 grams, Percent of chocolate: 75%
+Nestle, Price: 5.0$, Weight: 347.0 grams, Percent of chocolate: 95%
+Gelatine, Price: 29.0$, Weight: 307.0 grams, Percent of sugar: 47%
+Gelatine, Price: 30.0$, Weight: 95.0 grams, Percent of sugar: 69%
+Alpen Gold, Price: 95.0$, Weight: 923.0 grams, Percent of chocolate: 50%
